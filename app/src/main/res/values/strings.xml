@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">borgitest</string>
+    
+    <string name="signup_question">Don\'t have account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password_question"><u>Forgot password?</u></string>
+    <string name="password">** Password</string>
+    <string name="email">\@ Email</string>
+</resources>
